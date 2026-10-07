@@ -1,6 +1,6 @@
 # Define two numbers
-num1 = C
-num2 = C
+num1 = one
+num2 = one
 
 # Calculate the sum
 total = num1 + num2

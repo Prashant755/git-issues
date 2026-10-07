@@ -1,7 +1,6 @@
 # Define two numbers
-num1 = four
-num2 = four
-
+num1 = three
+num2 = three
 # Calculate the sum
 total = num1 + num2
 

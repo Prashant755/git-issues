@@ -1,6 +1,6 @@
 # Define two numbers
 num1 = three
-num2 = three
+num2 = changed
 # Calculate the sum
 total = num1 + num2
 

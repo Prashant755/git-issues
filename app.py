@@ -1,6 +1,6 @@
 # Define two numbers
 num1 = three
-num2 = changed
+num2 = changed in hotfixed
 # Calculate the sum
 total = num1 + num2
 

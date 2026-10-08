@@ -1,8 +1,8 @@
 # Define two numbers
-num1 = C
-num2 = D
-num1 = X
-num2 = Y
+num1 = Z
+num2 = Z
+num1 = Z
+num2 = Z
 # Calculate the sum
 total = num1 + num2
 

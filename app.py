@@ -1,6 +1,6 @@
 # Define two numbers
-num1 = three
-num2 = changed
+num1 = at LR
+num2 = 100
 # Calculate the sum
 total = num1 + num2
 

@@ -1,7 +1,7 @@
 # Define two numbers
-num1 = A
-num2 = B
-# Calculate the sum
+num1 = 5
+num2 = 10
+# Calculate the sumgit 
 total = num1 + num2
 
 # Print the result using an f-string

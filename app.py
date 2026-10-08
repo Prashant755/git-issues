@@ -1,6 +1,6 @@
 # Define two numbers
-num1 = other developer
-num2 = 100
+num1 = X
+num2 = Y
 # Calculate the sum
 total = num1 + num2
 

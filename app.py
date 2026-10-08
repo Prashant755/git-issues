@@ -1,6 +1,6 @@
 # Define two numbers
-num1 = at LR
-num2 = 100
+num1 = at bug branch
+num2 = 200
 # Calculate the sum
 total = num1 + num2
 

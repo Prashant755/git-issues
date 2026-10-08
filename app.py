@@ -1,6 +1,6 @@
 # Define two numbers
-num1 = three
-num2 = changed in hotfixed
+num1 = other developer
+num2 = 100
 # Calculate the sum
 total = num1 + num2
 
